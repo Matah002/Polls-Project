@@ -1,3 +1,6 @@
+
+# Create your own urls inside your app because maybe we can have different apps inside the same django projects
+
 from django.urls import path
 from . import views 
 
@@ -22,3 +25,4 @@ urlpatterns = [
 
 
 
+7y

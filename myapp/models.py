@@ -1,7 +1,10 @@
 from django.db import models
 import datetime 
 from django.utils import timezone
-#The would have the following if written inn SQL
+# Here we define our database
+# In case you change anything in this file "models.py", you  have to run "python manage.py migrate" to make migrations
+
+# The would have the following if written in SQL
 
 # CREATE TABLE Question (
 #     id INTEGER PRIMARY KEY,
