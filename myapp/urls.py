@@ -24,5 +24,3 @@ urlpatterns = [
 
 
 
-
-7y
